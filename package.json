@@ -1,1 +1,10 @@
+npm install gh-pages --save-dev
 
+
+
+"homepage": "https://nemizz.github.io/jig.github.io/"
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
+
+npm run deploy
