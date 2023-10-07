@@ -1,1 +1,1 @@
-# JapTool
+JIG by Giljottina
